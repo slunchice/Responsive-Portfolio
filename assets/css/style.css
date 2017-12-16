@@ -151,6 +151,7 @@ Pro-tip: Use the Page Ruler extension to measure the size of elements. */
   /* The wrapper's width will be 600px */
   .sidebar {
     width: 600px;
+    margin-top: 40px;
     float: left;
   }
 }
